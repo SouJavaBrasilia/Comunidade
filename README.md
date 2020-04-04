@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Criar um repositório para a comunidade aprender e compartilhar código que utilize código Java. O projeto não precisa ser completamente em Java, mas é preciso ter relação com a tecnologia.
+Criar um repositório para a comunidade aprender e compartilhar código com tecnologia baseada em Java.
 
 ## Como contribuir
 
