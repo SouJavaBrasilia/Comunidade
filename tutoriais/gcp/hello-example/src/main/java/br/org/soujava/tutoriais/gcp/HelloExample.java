@@ -1,4 +1,4 @@
-package org.example;
+package br.org.soujava.tutoriais.gcp;
 
 import com.google.appengine.api.utils.SystemProperty;
 
@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-@WebServlet(name = "HelloAppEngine", value = "/hello")
+@WebServlet(name = "HelloExample", value = "/hello")
 public class HelloExample extends HttpServlet {
 
   @Override
@@ -20,7 +20,7 @@ public class HelloExample extends HttpServlet {
     Properties properties = System.getProperties();
 
     response.setContentType("text/plain");
-    response.getWriter().println("Hello App Engine - Standard using "
+    response.getWriter().println("Hello, Sou Java - usando "
         + SystemProperty.version.get() + " Java " + properties.get("java.specification.version"));
   }
 

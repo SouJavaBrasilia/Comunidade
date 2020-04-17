@@ -1,4 +1,4 @@
-package org.example;
+package br.org.soujava.tutoriais.gcp;
 
 import static com.google.common.truth.Truth.assertThat;
 import static org.mockito.Mockito.when;
@@ -58,15 +58,15 @@ public class HelloExampleTest {
 
     // We expect our hello world response.
     assertThat(responseWriter.toString())
-        .named("HelloAppEngine response")
-        .contains("Hello App Engine - Standard ");
+        .named("HelloExample response")
+        .contains("Hello, Sou Java - usando");
   }
 
   @Test
   public void helloInfoTest() {
     String result = HelloExample.getInfo();
     assertThat(result)
-      .named("HelloInfo.getInfo")
+      .named("HelloExample.getInfo")
       .containsMatch("^Version:\\s+.+OS:\\s+.+User:\\s");
   }
 }
