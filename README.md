@@ -1,6 +1,8 @@
 Olá! 
 
-Quer fazer parte da comunidade SouJava Brasília e saber de todas as novidades? Estamos disponíveis através dos seguintes meios: 
+Quer fazer parte da comunidade SouJava Brasília e saber de todas as novidades? Envie um pull request com seu projeto para https://github.com/soujava
+
+Estamos também disponíveis através dos seguintes meios: 
 
 ## Slack
 - Para interagir com os membros, palestrantes,e receber vagas de emprego e muito mais accesse: https://javadevbr.herokuapp.com
