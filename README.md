@@ -1,18 +1,18 @@
 Olá! 
 
-Quer fazer parte da comunidade SouJava Brasília e saber de todas as novidades? Envie um pull request com seu projeto para https://github.com/soujava
+Quer contribuir com a comunidade SouJava enviando projetos para o nosso repositório? Envie um pull request com seu projeto para https://github.com/soujava
 
-Estamos também disponíveis através dos seguintes meios: 
+Nos acompanhe também através dos outros canais, que são: 
 
 ## Slack
 - Para interagir com os membros, palestrantes,e receber vagas de emprego e muito mais accesse: https://javadevbr.herokuapp.com
 ## Twitter
-- Siga o usuário [@SoujavaBrasilia](https://twitter.com/SoujavaBrasilia) ou interaja com a #soujava-brasilia
+- Para novidades e dicas fresquinhas, siga o usuário [@SoujavaBrasilia](https://twitter.com/SoujavaBrasilia) ou interaja com a #soujava-brasilia
 ## Telegram
-- https://t.me/soujavasb
+- Para receber boletins e notícias fresquinhas, acesse https://t.me/soujavasb
 ## Meetup
-- https://www.meetup.com/SouJavaBrasilia/
+- Para ficar sabendo dos próximos encontros: https://www.meetup.com/SouJavaBrasilia/
 ## Youtube
-- https://www.youtube.com/soujava
+- Para acessar nossos econtros: https://www.youtube.com/soujava
 ## Email
 - soujavabsb@gmail.com
