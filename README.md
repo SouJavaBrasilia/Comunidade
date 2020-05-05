@@ -1,12 +1,16 @@
-# Comunidade Sou Java Brasília
+Olá! 
 
-## Objetivo
+Quer fazer parte da comunidade SouJava Brasília e saber de todas as novidades? Estamos disponíveis através dos seguintes meios: 
 
-Criar um repositório para a comunidade aprender e compartilhar código com tecnologia baseada em Java.
-
-## Como contribuir
-
-- Faça um fork no repositório
-- Clone seu novo repositório para sua máquina
-- Crie seu subdiretório não esquecendo de descrever sua utilização no arquivo .md
-- Comite suas mudanças e faça um pull request
+## Slack
+- Para interagir com os membros, palestrantes,e receber vagas de emprego e muito mais accesse: https://javadevbr.herokuapp.com
+## Twitter
+- Siga @SoujavaBrasilia ou interaja com a #soujava-brasilia
+## Telegram
+- https://t.me/soujavasb
+## Meetup
+- https://www.meetup.com/SouJavaBrasilia/
+## Youtube
+- https://www.youtube.com/soujava
+## Email
+- soujavabsb@gmail.com
