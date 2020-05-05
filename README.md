@@ -5,7 +5,7 @@ Quer fazer parte da comunidade SouJava Brasília e saber de todas as novidades? 
 ## Slack
 - Para interagir com os membros, palestrantes,e receber vagas de emprego e muito mais accesse: https://javadevbr.herokuapp.com
 ## Twitter
-- Siga @SoujavaBrasilia ou interaja com a #soujava-brasilia
+- Siga o usuário (@SoujavaBrasilia)[https://twitter.com/SoujavaBrasilia] ou interaja com a #soujava-brasilia
 ## Telegram
 - https://t.me/soujavasb
 ## Meetup
